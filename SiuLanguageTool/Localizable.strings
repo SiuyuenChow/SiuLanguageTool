@@ -1,0 +1,274 @@
+/* 
+  Localizable.strings
+  AmericaTaxiForUser
+
+  Created by 罗秋生 on 2017/4/9.
+  Copyright © 2017年 EStrongersoft Co., LTD. All rights reserved.
+*/
+
+/* Public */
+"kAlert" = "Alert";
+"kConfirm" = "Confirm";
+"kCancel" = "Cancel";
+"kLoading" = "Loading...";
+"kUnableToConnectService" = "Unable to connect to server, please try again later!";
+"kNewMessageAlert" = "You have a new message, please pay attention to check!";
+
+/* LOGIN VIEW CONTROLLER */
+"kLoginSignIn" = "Sign In";
+"kLoginAccount" = "Account";
+"kLoginPassword" = "Password";
+"kLoginForgotPassword" = "Forgot Password?";
+"kLoginDone" = "Done";
+"kLoginRegister" = "Registration";
+"kLoginPleaseInputAccount" = "Please input username";
+"kLoginPleaseInputPassword" = "Please enter your password";
+"kLogin" = "Logging in...";
+
+/* REGISTER VIEW CONTROLLER */
+"kRegister" = "Registration";
+"kRegisterPhoneNumber" = "Cellphone Number";
+"kRegisterCodeNumber" = "Verification Code";
+"kRegisterGetCode" = "Get Code";
+"kRegisterPassword" = "Password";
+"kRegisterConfirmPassword" = "Re-enter the password";
+"kRegisterFirstName" = "First Name";
+"kRegisterLastName" = "Last Name";
+"kRegisterDescribe" = "I have read and agree";
+"kRegisterAgreement" = "ZYT User Agreement";
+"kRegisterNext" = "Next";
+"kRegisterAddPayment" = "Fill in a bank card";
+"kRegisterBankCardNumber" = "Bank card account";
+"kRegisterHolder" = "Cardholder";
+"kRegisterExpirationMonth" = "Effective month";
+"kRegisterExpirationYear" = "Effective year";
+"kRegisterCVVCode" = "Security code";
+"kRegisterDone" = "Done";
+"kRegisterSkip" = "Do not add first? jump over";
+"kRegisterAlertPhoneNumber" = "Please fill in the required mobile phone number!";
+"kRegisterAlertCodeNumber" = "Please enter your verification code!";
+"kRegisterAlertPassword" = "Please fill in the account password!";
+"kRegisterAlertConfirmPasswork" = "Please fill in the account password again!";
+"kRegisterAlertFirstName" = "Please fill in your first name!";
+"kRegisterAlertLastName" = "Please fill in your last name!";
+"kRegisterAlertPasswordUnmatch" = "Two times to fill in the account password is inconsistent!";
+"kRegisterAlertAgreement" = "Please choose to agree to <ZYT User Agreement>!";
+"kRegisterCountDownTitle" = "s retry";
+"kRegisterAlertBankCardNumber" = "Please fill in the bank card account!";
+"kRegisterAlertHolder" = "Please fill in the name of the cardholder!";
+"kRegisterAlertExpirationMonth" = "Please select a valid month!";
+"kRegisterAlertExpirationYear" = "Please choose valid period!";
+"kRegisterAlertCVVCode" = "Please fill in the security code!";
+"kRegisterAmericaCode" = "U.S.A";
+
+/* FORGET PASSWORD VIEW CONTROLLER */
+"KForgetPSW" = "Forget Password";
+"kForgetPSWInstructions" = "Please enter your mobile number, we will send a verification code to your phone later, please verify.";
+"kForgetPSWPhoneNumber" = "Cellphone number";
+"kForgetPSWCodeNumber" = "Verification code";
+"kForgetPSWGetCode" = "Get Code";
+"kForgetPSWNext" = "Next";
+"kForgetPSWChangePSW" = "Change Password";
+"kForgetPSWInputNewPassword" = "Please enter a new password";
+"kForgetPSWInputNewPasswordAgain" = "Please enter the new password again";
+"kForgetPSWDone" = "Done";
+"kForgetPSWAlertPhoneNumber" = "Please fill in cell phone number!";
+"kForgetPSWAlertCodeNumber" = "Please enter verification code!";
+"kForgetPSWCountDownTitle" = "s retry";
+"kForgetPSWPasswordUnmatch" = "Two passwords are inconsistent!";
+
+/* REMOVE BINDING VIEW CONTROLLER */
+"kRemoveBindingVerification" = "Verification";
+"kRemoveBindingInstructions" = "Please enter your mobile number, we will send a verification message to your phone later, please verify.";
+"kRemoveBindingPhoneNumber" = "Cellphone number";
+"kRemoveBindingCodeNumber" = "Verification code";
+"kRemoveBindingGetCode" = "Get Code";
+"kRemoveBindingDone" = "Done";
+"kRemoveBindingAlertPhoneNumber" = "Please fill in your mobile number!";
+"kRemoveBindingAlertCodeNumber" = "Please enter verification code!";
+
+/* HOME VIEW CONTROLLER */
+"kHomeTaxi" = "SEDAN";
+"kHomeExpressBus" = "LUXURY";
+"kHomeSpecialTrain" = "MINI VAN";
+"kHomeImmediatelyCallTaxi" = "Call Driver";
+"kHomeImmediatelyCallTaxiType" = "NOW";
+"kHomeTaxiBookingType" = "BOOK";
+"kHomeDeparture" = "Please choose the starting location";
+"kHomeDestination" = "Please select a destination";
+"kHomeAppointmentTime" = "Please choose the appointment time";
+"kHomeInputDeparture" = "Please enter the starting address";
+"kHomeInputDestination" = "Please enter your destination";
+"kHomeUnknownPlaces" = "Unknown place name";
+"kHomeEstimateCost" = "Estimated ride costs ...";
+"kHomeAddTip" = "Add a fee";
+"kHomeAddTipTitle" = "Please enter the amount of the tip";
+"kHomeAddressHome" = "Home address";
+"kHomeAddressCompany" = "Company address";
+"kHomeAddressHomeAlert" = "Have you set a home address yet, do you set up your personal center?";
+"kHomeAddressCompanyAlert" = "Have you set a company address, do you have to go to your personal center now?";
+"kHomeAddressSameAlert" = "Destination and departure can not be the same, please re-select!";
+"kHomeSelectTripTypeAlert" = "Please select your trip type";
+"kHomePersonalTravel" = "Personal itinerary";
+"kHomeProfessionalTravel" = "Professional itinerary";
+"kHomeSelectPersonalTravelAlert" = "You are not a business employee and can not use professional itinerary! Are you sure you are using a personal trip?";
+"kHomeDepartureInform" = "From here";
+"kHomeInformed" = "Informed";
+"kHomeCarUnit" = "Car";
+"kHomeWaiting" = "has been waiting";
+"kHomeCancelOrderAlert" = "Order has been submitted for delivery, OK to cancel the order?";
+"kHomeTitle" = "Home";
+"kHomeEstimateCostFailedAlert" = "Estimated cost of travel, please re-select the destination and destination!";
+"kHomeGoToAppointmentLocationAlert" = "Please arrive at the booking site on time, I wish you a pleasant journey!";
+"kHomeDriverConfirmAlert" = "The driver has confirmed the receipt of the order, please be patient at the departure of the driver to arrive!";
+"kHomeDriverAcceptedOrderAlert" = "Does the driver have confirmed the order to cancel the order?";
+"kHomeTripStartAlert" = "The trip has already begun and I wish you a pleasant journey!";
+"kHomePaymentCompleteAlert" = "The trip has ended, please click the pay button to complete the payment operation!";
+"kHomePaymentTitle" = "Payment";
+"kHomeArrivedDestinationAlert" = "You have arrived at your destination, please wait for the driver to confirm the cost!";
+"BillingTip" = "Real-time billing does not include road bridge fees,which should be charged separately.The actual fee is subject to actual cost";
+
+/* PAY FARE VIEW CONTROLLER */
+"kPayFareTitle" = "Payment";
+"kPayFareSelectPaymentStytleAlert" = "Please select mode of payment!";
+"kPayFare" = "Travel expenses";
+"kPayFareCoupon" = "Coupon";
+"kPayFareBankCardType" = "Bank card payment";
+"kPayFarePayment" = "Payment";
+"kPayBankCardSettingAlert" = "You have not set up your personal bank card information, do you have now set up your bank card information?";
+"kPayUseCoupon" = "Use coupons";
+
+/* CHARGE VIEW CONTROLLER */
+"kChargeTitle" = "Complaints";
+"kChargeBreakAppointment" = "Driver is not honest";
+"kChargeBadAttitude" = "Poor attitude of driver service";
+"kChargeWrongRoute" = "The driver wonders around the road";
+"kChargePlaceHolderAlert" = "Please enter your complaint grounds ...";
+"kChargeEmptyContentAlert" = "Please choose or enter your complaint!";
+
+/* REVIEW VIEW CONTROLLER */
+"kReviewTitle" = "Evaluate the driver";
+"kReviewLikeOne" = "The driver is very polite";
+"kReviewLikeTwo" = "Driver driving skills are good";
+"kReviewLikeThree" = "Good service attitude";
+"kReviewLikeFour" = "Safe Driving";
+"kReviewDislikeOne" = "The driver is driving too fast";
+"kReviewDislikeTwo" = "The driver is not civilized driving";
+"kReviewDislikeThree" = "Service attitude is very bad";
+"kReviewDislikeFour" = "Poor health in the car";
+"kReviewPlaceHolder" = "Please enter your comment...";
+"kReviewContentEmptyAlert" = "Please select or enter your comment!";
+
+/* COUPON VIEW CONTROLLER */
+"kCouponTitle" = "Coupon";
+"kCouponUnuse" = "Do not use coupons";
+"kCouponExpires" = "Limited";
+
+/* PERSONAL CENTER VIEW CONTROLLER */
+"kPersonalCenterHistory" = "ITINERARY";
+"kPersonalCenterWallet" = "WALLET";
+"kPersonalCenterNotifications" = "NOTIFICATION";
+"kPersonalCenterShare" = "SHARING";
+"kPersonalCenterSetting" = "SETTINGS";
+
+/* PERSONAL PROFILE VIEW CONTROLLER */
+"kPersonalProfile" = "Personal Information";
+"kPersonalProfilePhoto" = "Photo";
+"kPersonalProfileFirstName" = "First name";
+"kPersonalProfileLastName" = "Last name";
+"kPersonalProfileGender" = "Gender";
+"kPersonalProfileMobile" = "Phone Number";
+"kPersonalProfilePosition" = "Position";
+"kPersonalProfileAddress" = "Address";
+"kPersonalProfileBirthday" = "Birthday";
+"kPersonalProfileChangePassword" = "Change password";
+"kPersonalProfileSave" = "Save";
+"kPersonalProfilePleaseInputProfileInfo" = "Please enter the personal information you need to modify!";
+"kPersonalProfileCamera" = "Take pictures";
+"kPersonalProfileAlbum" = "Select from album";
+"kPersonalProfileUploadingPicture" = "Uploading image ...";
+"kPersonalProfileFemale" = "Female";
+"kPersonalProfileMale" = "Male";
+
+/* MODIFY PASSWORD VIEW CONTROLLER */
+"kModifyPassword" = "Change Password";
+"kModifyPasswordOldPassword" = "Please enter the old password";
+"kModifyPasswordNewPassword" = "Please enter a new password";
+"kModifyPasswordConfirmPassword" = "Please enter the new password again";
+"kModifyPasswordDone" = "Done";
+"kModifyPasswordUnmatch" = "Two passwords are inconsistent!";
+
+/* HISTORY ORDER VIEW CONTROLLER */
+"kHistoryIsCorpTravel" = "Professional Itinerary";
+"kHistoryHasBeenCancelled" = "Order Canceled";
+"kHistoryWaitReceiveOrder" = "Waiting for Accept";
+"kHistoryOrderHadReceived" = "Received";
+"kHistoryHasReceivedPassenger" = "Received Passenger";
+"kHistoryReachedDestination" = "Arrival Destination";
+"kHistoryWaitForPayment" = "Wait Payment Complete";
+"kHistoryPaymentComplete" = "Payment Complete";
+"kHistoryEvaluationComplete" = "Evaluated";
+"kHistoryReservationStatus" = "BOOK";
+"kHistoryOnlinePayment" = "Online Payment";
+"kHistoryEdit" = "Edit";
+"kHistoryDone" = "Done";
+"kHistoryDelete" = "Delete";
+"kHistoryAdvanceOrder" = "BOOK";
+"kHistoryPaymentComplete" = "Payment Complete";
+"kHistoryEvaluation" = "Evaluate";
+"kHistoryEvaluationContent" = "Please enter the evaluation content";
+"kHistoryOrderDetail" = "Order details";
+"kHistoryOrderSN" = "Order number:";
+"kHistoryCancelOrder" = "Cancel order";
+"kHistoryChargeDriver" = "Complaints";
+"kHistoryAlertCancelOrder" = "Are you sure you want to cancel the order?";
+"kHistoryReviewSuccessAlert" = "Rated order has been evaluated!";
+"kHistoryDeleteOrdersAlert" = "Deleting history order ...";
+
+/* MY WALLAT VIEW CONTROLLER */
+"kMyWallat" = "My wallet";
+"kMyWallatBalance" = "Balance";
+"kMyWallatBankCard" = "Bank card";
+"kMyWallatCoupon" = "Coupon";
+"kMyWallatAddBankCard" = "Add a bank card";
+
+/* EDIT BANK CARD VIEW CONTROLLER */
+"kEditBankCard" = "Bank Card";
+"kEditBankCardBankCardNumber" = "Bank card account";
+"kEditBankCardHolder" = "Cardholder";
+"kEditBankCardDate" = "Valid period";
+"kEditBankCardExpirationMonth" = "Effective month";
+"kEditBankCardExpirationYear" = "Effective year";
+"kEditBankCardCVVCode" = "Security code";
+"kEditBankCardInputBankCardNumber" = "Please enter the bank card number";
+"kEditBankCardInputHolder" = "Please enter the cardholder";
+"kEditBankCardInputExpirationMonth" = "Please select valid month";
+"kEditBankCardInputExpirationYear" = "Please choose valid years";
+"kEditBankCardInputCVVCode" = "Please enter the security code";
+"kEditBankCardSave" = "Save";
+
+/* SHARE VIEW CONTROLLER */
+"kShareToYourFriends" = "Share to your friends";
+
+/* SETTINGS VIEW CONTROLLER */
+"kSettingsFavoritePlaces" = "Common Address";
+"kSettingsLanguage" = "Language settings";
+"kSettingsHowToUse" = "Use introduction";
+"kSettingsHelpAndFeedback" = "Help and feedback";
+"kSettingsLegal" = "Legal terms";
+"kSettingsAboutZYT" = "About ZYT";
+"kSettingsSignOut" = "Sign out";
+"kSettingLogOut" = "Logging out ...";
+"kSettingEnglish" = "English";
+"kSettingChinese" = "Chinese";
+
+/* COMMONLY ADDRESS VIEW CONTROLLER */
+"kCommonlyAddressHome" = "Home address";
+"kCommonlyAddressCompany" = "Company address";
+"kCommonlyAddressAddAddress" = "Add an address";
+"kCommonlyAddressEdit" = "Edit";
+"kCommonlyAddressInputAddress" = "Please enter the location you want to search for";
+
+/* HELP AND FEEDBACK VIEW CONTROLLER */
+"kHelpAndFeedbackPlaceholder" = "Please enter your comments or feedback";
+

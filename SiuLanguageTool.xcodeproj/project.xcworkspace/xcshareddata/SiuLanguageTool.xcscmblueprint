@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7BC1017128B30C1883090BB920D7914874473588",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7BC1017128B30C1883090BB920D7914874473588" : 9223372036854775807,
+    "D1AB61F123AE7B66CFF1E41E34865E3E30E29604" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9A20D95F-3A15-4433-AF8D-2D805AF229F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7BC1017128B30C1883090BB920D7914874473588" : "SiuLanguageTool\/",
+    "D1AB61F123AE7B66CFF1E41E34865E3E30E29604" : "%E5%B7%A5%E4%BD%9C\/%E7%BE%8E%E5%9B%BD%E6%89%93%E8%BD%A6\/americataxifordriver\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SiuLanguageTool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SiuLanguageTool.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SiuyuenChow\/SiuLanguageTool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7BC1017128B30C1883090BB920D7914874473588"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/git.estronger.cn:29418\/~lqs\/americataxifordriver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1AB61F123AE7B66CFF1E41E34865E3E30E29604"
+    }
+  ]
+}
